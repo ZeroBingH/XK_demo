@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" fill="none">
+  <!-- 背景光斑 -->
+  <circle cx="200" cy="150" r="110" fill="#DBEAFE" opacity="0.45"/>
+  <circle cx="310" cy="80" r="34" fill="#E2E8F0" opacity="0.4"/>
+  <circle cx="86" cy="220" r="26" fill="#E2E8F0" opacity="0.4"/>
+
+  <!-- 文件夹 -->
+  <g>
+    <path d="M108 108 a12 12 0 0 1 12-12 h44 a10 10 0 0 1 8 4 l10 12 h98 a12 12 0 0 1 12 12 v92 a12 12 0 0 1-12 12 H120 a12 12 0 0 1-12-12 Z" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="3"/>
+    <path d="M108 132 h184 v84 a12 12 0 0 1-12 12 H120 a12 12 0 0 1-12-12 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="3"/>
+    <!-- 纸张线条 -->
+    <line x1="136" y1="158" x2="232" y2="158" stroke="#DBEAFE" stroke-width="8" stroke-linecap="round"/>
+    <line x1="136" y1="180" x2="206" y2="180" stroke="#E2E8F0" stroke-width="8" stroke-linecap="round"/>
+    <line x1="136" y1="202" x2="220" y2="202" stroke="#E2E8F0" stroke-width="8" stroke-linecap="round"/>
+  </g>
+
+  <!-- 放大镜 -->
+  <g>
+    <circle cx="252" cy="176" r="40" fill="#FFFFFF" fill-opacity="0.85" stroke="#93C5FD" stroke-width="6"/>
+    <line x1="282" y1="206" x2="312" y2="236" stroke="#93C5FD" stroke-width="10" stroke-linecap="round"/>
+    <path d="M232 168 a24 24 0 0 1 16-14" stroke="#BFDBFE" stroke-width="5" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>
